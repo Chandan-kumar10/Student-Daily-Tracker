@@ -1,4 +1,4 @@
-# Student Daily Tracker System - Data Analytics Project
+# Student Daily Tracker System - Data Analytics project
 
 This project is a **Student Daily Tracker System** analyzing students' daily academic activities and emotional states. Using data analytics techniques, the system extracts valuable insights from daily records including attendance, study hours, assignment and test scores, as well as mood tracking.
 
@@ -115,7 +115,7 @@ Applied IQR method on Study Hours, Assignment Score, and Test Score to find outl
 Visualization:
 Used matplotlib and seaborn for histograms, boxplots, scatterplots, bar plots, and time-series plots to present insights clearly.
 
-# Tools and Technologies Used
+# Tools and Technologies use. 
 Python 3.x
 Pandas
 NumPy
@@ -125,6 +125,7 @@ Jupyter Notebook / VS Code
 
 # Conclusion
 The Student Daily Tracker System offers a comprehensive analysis of students’ daily academic and emotional data, enabling identification of patterns and correlations that can inform better study habits and well-being monitoring.
+
 
 
 
