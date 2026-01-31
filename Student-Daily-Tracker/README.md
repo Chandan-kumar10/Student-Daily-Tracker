@@ -12,13 +12,13 @@ The dataset `student_data.csv` contains daily records of students with the follo
 - `Date` (date): The date of the record (YYYY-MM-DD)  
 - `Attendance (%)` (float): Percentage attendance on that day  
 - `Study Hours` (float): Number of hours spent studying  
-- `Assignment Score` (int): Score obtained in daily assignments  
+- `Assignment Score` (int): Score obtained in daily assignments
 - `Test Score` (int): Score obtained in tests/quizzes  
 - `Mood` (string): Reported mood of the student (e.g., Happy, Neutral, Stressed, Tired)
 
 ---
 
-## Project Workflow and Instructions Followed
+## Project Workflow and Instructions Follewed.
 
 ### 1. Identifying and Sourcing Relevant Datasets
 - Created and sourced a daily tracking dataset that covers academic and emotional parameters essential for student performance monitoring.
@@ -125,6 +125,7 @@ Jupyter Notebook / VS Code
 
 # conclusion
 The Student Daily Tracker System offers a comprehensive analysis of students’ daily academic and emotional data, enabling identification of patterns and correlations that can inform better study habits and well-being monitoring.
+
 
 
 
