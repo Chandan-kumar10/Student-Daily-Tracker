@@ -37,7 +37,7 @@ The dataset `student_data.csv` contains daily records of students with the follo
 ### 4. Ensuring Data Integrity and Consistency
 - Checked for duplicates and removed if any.
 - Verified correct data types for each column.
-- Ensured consistency in data entries, especially for categorical moods.
+- Ensured consistency in data entries, especially for 
 
 ### 5. Summary Statistics and Insights
 - Computed summary statistics (mean, median, std deviation) for all numerical columns.
@@ -125,6 +125,7 @@ Jupyter Notebook / VS Code
 
 # conclusion
 The Student Daily Tracker System offers a comprehensive analysis of students’ daily academic and emotional data, enabling identification of patterns and correlations that can inform better study habits and well-being monitoring.
+
 
 
 
